@@ -1,7 +1,7 @@
-<H3>NAME: SETHUKKARASI C</H3>
-<H3>REGISTER NUMBER: 212223230201</H3>
+<H3>NAME:  DHARSAN KUMAR R</H3>
+<H3>REGISTER NUMBER: 212223240028</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE: 24-10-2025</H3>
+<H3>DATE: 28-10-2025</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
@@ -69,11 +69,9 @@ print("Classification Report:\n",classification_rep)
 
 <H3>Output:</H3>
 
-<img width="297" height="41" alt="image" src="https://github.com/user-attachments/assets/5a2cca3e-0b6e-4d45-be89-b45d7289ce62" />
 
-<br>
+<img width="653" height="813" alt="image" src="https://github.com/user-attachments/assets/c3f4c3cd-ee31-4f9f-8ea4-3cacd765b410" />
 
-<img width="622" height="709" alt="image" src="https://github.com/user-attachments/assets/9b098910-1f70-4c04-a66a-a467dbf58b02" />
 
 <H3>Results:</H3>
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
